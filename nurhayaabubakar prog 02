@@ -1,0 +1,14 @@
+#include <iostream>
+using namaspace std;
+
+int main () {
+int a=5; // memberikan nilai 5 pada  variabel a
+int *b; // memdeklarasikan variabel b sebagai pointer
+b = &a; // mengkopikan alamat variabel a kedalam variabel ponter b
+cout<<"Nilai variabel a adalah "<<a<<endl;
+cout<<"Alamat variabel a adalah "<<&a<<endl;
+cout<<"Isi dari variabel b adalah "<<b<<endl;
+cout<<"Nilai yang tertampung dalam variabel b adalah "<<*b<<endl;
+
+return 0;
+}
