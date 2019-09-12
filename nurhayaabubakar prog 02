@@ -1,5 +1,5 @@
 #include <iostream>
-using namaspace std;
+using namespace std;
 
 int main () {
 int a=5; // memberikan nilai 5 pada  variabel a
@@ -12,3 +12,5 @@ cout<<"Nilai yang tertampung dalam variabel b adalah "<<*b<<endl;
 
 return 0;
 }
+     
+
