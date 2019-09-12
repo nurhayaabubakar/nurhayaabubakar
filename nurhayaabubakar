@@ -1,0 +1,10 @@
+#include <iostream>
+using namaspace std;
+
+int main () {
+int a = 5;
+cout<<"Alamat Variabel a adalah :"<<&<<endl;
+cout<<"Nilai Variabel a adalah :"<<a<<endl;
+return 0;
+}
+     
