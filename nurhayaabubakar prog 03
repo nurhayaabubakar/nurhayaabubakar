@@ -1,7 +1,7 @@
 #include <iostream>
-using namaspace std;
+using namespace std;
 
-void tambah (int *angka);{
+void tambah (int *angka) {
 *angka +=20;
 }
 
